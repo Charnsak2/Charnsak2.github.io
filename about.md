@@ -1,7 +1,7 @@
 ---
+title: About Charnsak
+permalink: "/about/"
 layout: page
-title: About Charnsak 
-permalink: /about/
 ---
 
 Charnsak 

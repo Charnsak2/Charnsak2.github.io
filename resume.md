@@ -1,8 +1,9 @@
 ---
-layout: page
 title: My resume
-permalink: /resume/
+permalink: "/resume/"
+layout: page
 ---
+
 Bs.C. Computer Science, Ubon Ratchathani Ratchabhat University.
 
 # Experience
