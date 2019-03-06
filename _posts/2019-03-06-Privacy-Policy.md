@@ -1,0 +1,1 @@
+*Dr. Charnsak Privacy Policy
